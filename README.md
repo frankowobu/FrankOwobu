@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Frank Owobu
+🚀 **Backend Java Engineer | DevOps Enthusiast**
 
-<!--
-**frankowobu/FrankOwobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in designing and building scalable, efficient, and secure backend systems using Java and Spring Boot. With experience in cloud infrastructure, CI/CD pipelines, and database design, I love solving complex challenges and automating workflows.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Java, SQL, Python
+- **Frameworks**: Spring Boot, Hibernate, QueryDSL
+- **Databases**: MySQL, Oracle, MongoDB
+- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Git
+- **Cloud Platforms**: AWS, Azure
+- **Other**: Redis, RabbitMQ, Pentaho
+  
