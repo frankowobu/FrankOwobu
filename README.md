@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Frank Owobu
-🚀 **Backend Java Engineer | DevOps Enthusiast**
+🚀 **Software Engineer | DevOps Enthusiast**
 
 I specialize in designing and building scalable, efficient, and secure backend systems using Java and Spring Boot. With experience in Kubernetes, cloud infrastructure, CI/CD pipelines, and database design, I love solving complex challenges and automating workflows.
 
